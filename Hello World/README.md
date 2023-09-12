@@ -6,7 +6,7 @@ The current project is a simple barbones hello world program written in python.
 
 I decided to persue this project as a way to become comfortable with publishing content.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/va8MmqjnefQ)
 
 # Development Environment
 
