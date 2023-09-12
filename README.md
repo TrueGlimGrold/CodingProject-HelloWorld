@@ -14,3 +14,6 @@ I used VS code to write the program, Github to publish, and youtube to record th
 
 The code was written using Python. Python is a basic object orientated programing language that is simple to use and impliment. It is often used for people new to coding, but has advanced applications such as deep learning in AI development.
 
+* [GitHub](https://docs.github.com/en/repositories/working-with-files/managing-files/deleting-files-in-a-repository)
+
+* [YouTube](https://www.youtube.com/watch?v=_BmSqx5B6xU&t=21s&ab_channel=JackCole)
